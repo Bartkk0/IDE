@@ -1,0 +1,17 @@
+Dostępne ustawienia
+Odrzuć
+Zachowaj
+[okno]
+* uruchom wyśrodkowane
+* uruchom zmaksymalizowane
+* zapamiętaj pozycję
+* zapamiętaj rozmiar
+[ide]
+* język
+* zapamiętaj katalog przeglądania
+* zapamiętaj otwarte pliki
+[gui]
+* ukryj menu główne
+* odpięty pasek narzędziowy
+* zablokuj pasek narzędziowy
+* tryb ciemny

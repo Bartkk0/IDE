@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="ide">
+      <map/>
+      <node name="app">
+        <map>
+          <entry key="cbCenter" value="false"/>
+          <entry key="cbDarkMode" value="false"/>
+          <entry key="cbHideMenu" value="false"/>
+          <entry key="cbLockToolbar" value="false"/>
+          <entry key="cbMax" value="false"/>
+          <entry key="cbSaveDir" value="false"/>
+          <entry key="cbSaveOpened" value="false"/>
+          <entry key="cbSavePos" value="false"/>
+          <entry key="cbSaveSize" value="false"/>
+          <entry key="cbUndockToolbar" value="false"/>
+          <entry key="comboLang" value="pl_PL"/>
+        </map>
+      </node>
+      <node name="win">
+        <map>
+          <entry key="WINH" value="587"/>
+          <entry key="WINW" value="792"/>
+          <entry key="WINX" value="1020"/>
+          <entry key="WINY" value="345"/>
+        </map>
+      </node>
+    </node>
+  </root>
+</preferences>
